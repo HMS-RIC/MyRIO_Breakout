@@ -3,3 +3,6 @@ Breakout board for NI MyRIO. Includes 2 channels of lick detection, 2 solenoid d
 
 
 [[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+ 
+ 
+ ![Alt text](/IMG_0925.JPG?raw=true "Optional Title")
